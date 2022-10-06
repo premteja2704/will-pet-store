@@ -1,6 +1,6 @@
 public with sharing class BeerController {
 
-
+//comment
     @AuraEnabled
     public static PagedResult findAll(String searchKey, Decimal minAlcohol, Decimal pageNumber) {
         Integer pageSize = 12;
