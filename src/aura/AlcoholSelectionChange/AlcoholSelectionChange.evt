@@ -1,1 +1,4 @@
+<aura:event type="APPLICATION">
+    <aura:attribute name="minAlcohol" type="Decimal"/>
+</aura:event>
 
