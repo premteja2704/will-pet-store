@@ -1,4 +1,4 @@
-public with sharing class ProjectContractChargingPeriodProjectAccountReferenceVMBeerController {
+public with sharing class BeerController {
 
 //comment
     @AuraEnabled
