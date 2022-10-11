@@ -1,5 +1,5 @@
-public with sharing class BeerController {
-ProjectContractChargingPeriodProjectAccountReferenceVM
+public with sharing class ProjectContractChargingPeriodProjectAccountReferenceVMBeerController {
+
 //comment
     @AuraEnabled
     public static PagedResult findAll(String searchKey, Decimal minAlcohol, Decimal pageNumber) {
