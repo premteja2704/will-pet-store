@@ -1,4 +1,4 @@
-public class CamelCaseTest {  //all wrong
+public class ProjectContractChargingPeriodProjectAccountReferenceVMCamelCaseTest {  //all wrong
     
     private integer NOT_CONSTANT = 2;
     
